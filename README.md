@@ -3,12 +3,12 @@
 -----
 
 > ### Dacon - AI 프렌즈 시즌1 온도 추정 경진대회
-> ![Uploading dacon.png…]()
+> ![dacon](https://user-images.githubusercontent.com/46242120/83408422-87712e00-a44d-11ea-8145-675cb8b7e92e.png)
 
 -----
 ## 1. 데이터 설명
 
-![Uploading proj.png…]()
+![proj](https://user-images.githubusercontent.com/46242120/83408345-6ad4f600-a44d-11ea-83fe-df27162702c7.png)
 
 - **각 위치에서 기온, 누적강수량, 풍속, 풍향, 해면기압, 현지기압, 일사량, 습도 모두 측정**
 - 대전지역에서 측정한 실내외 19곳의 센서데이터와 주변 지역의 기상청 공공데이터를 semi-비식별화하여 제공합니다. 
@@ -24,7 +24,7 @@
 ------
 ## 2. 분석과정
 
-![Uploading data_info.png…]()
+![data_info](https://user-images.githubusercontent.com/46242120/83408515-b091be80-a44d-11ea-93c1-3041b18494bd.png)
 
 ----
 ## 3. Package
@@ -41,4 +41,5 @@
 ## 4. 결과
 
 > MSE 3.94 / 상위 11% (378명 참가) 
-[Linear Regression Project](/Users/caterina/Documents/dev/Linear_Regression_Analysis/Linear_regression_temperature.pdf)
+[Linear Regression Project](https://github.com/CATERINA-SEUL/Linear_Regression_Analysis/files/4711156/Linear_regression_temperature.pdf)
+
