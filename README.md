@@ -40,5 +40,6 @@
 ----
 ## 4. 결과
 
-> MSE 3.94 / 상위 11% (378명 참가) 
+> MSE 3.94 / 상위 11% (378명 참가)   
+> [Linear Regression Project](https://github.com/CATERINA-SEUL/Linear_Regression_Analysis/files/4711156/Linear_regression_temperature.pdf)
 
